@@ -10,6 +10,5 @@ Soy Ingeniero en Informática enfocado en el desarrollo de software y apasionado
 
 **Proyectos Destacados:**
 *   [Laboratorio IA & Portafolio](https://portafolio-kelvin.onrender.com): Aplicación Fullstack en Java que integra un modelo predictivo para el Bitcoin consumiendo la API de Binance.
-*   **App de Seguridad Vecinal:** Desarrollo móvil que integra detección de objetos en tiempo real y alertas comunitarias.
 
 **Hablemos:** kelvinserrano1261@gmail.com | [LinkedIn](https://www.linkedin.com/in/kelvin-serrano-568427236)
