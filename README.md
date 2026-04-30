@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Kelvin Serrano 👋
 
-<!--
-**KelvinSerrano/KelvinSerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ingeniero en Informática enfocado en el desarrollo de software y apasionado por la Inteligencia Artificial. Me encanta construir soluciones escalables y traducir modelos de datos en aplicaciones web funcionales.
 
-Here are some ideas to get you started:
+🚀 **Tecnologías que manejo:**
+*   **Backend:** Java, Spring Boot, Python.
+*   **IA & Datos:** Machine Learning (modelos predictivos, redes neuronales LSTM)
+*   **Bases de Datos:** MySQL, Oracle, MongoDB.
+*   **Metodologías:** Scrum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Proyectos Destacados:**
+*   [Laboratorio IA & Portafolio](https://portafolio-kelvin.onrender.com): Aplicación Fullstack en Java que integra un modelo predictivo para el Bitcoin consumiendo la API de Binance.
+*   **App de Seguridad Vecinal:** Desarrollo móvil que integra detección de objetos en tiempo real y alertas comunitarias.
+
+📫 **Hablemos:** kelvinserrano1261@gmail.com | [LinkedIn](https://www.linkedin.com/in/kelvin-serrano-568427236)
