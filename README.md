@@ -9,6 +9,6 @@ Soy Ingeniero en Informática enfocado en el desarrollo de software y apasionado
 *   **Metodologías:** Scrum.
 
 **Proyectos Destacados:**
-*   [Laboratorio IA & Portafolio](https://portafolio-kelvin.onrender.com): Aplicación Fullstack en Java que integra un modelo predictivo para el Bitcoin consumiendo la API de Binance.
+*   [Laboratorio IA & Portafolio](https://portafolio-kelvin.onrender.com): Aplicación Fullstack en Java que integra un modelo predictivo para el Bitcoin consumiendo la API de Binance, el modelo esta en la nube.
 
 **Hablemos:** kelvinserrano1261@gmail.com | [LinkedIn](https://www.linkedin.com/in/kelvin-serrano-568427236)
